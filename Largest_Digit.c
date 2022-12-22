@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int n,q,r,s=0,max;
+    int n,q,s=0,max,r;
     scanf("%d",&n);
     q=n;
     max=0;
